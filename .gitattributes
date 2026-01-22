@@ -1,0 +1,2 @@
+# Force GitHub to classify these as Assembly
+*.asm   linguist-language=Assembly
